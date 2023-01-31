@@ -1,4 +1,4 @@
-# encoding:utf-8
+# encoding:utf-8 #test
 
 import config
 from channel import channel_factory
