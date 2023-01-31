@@ -1,5 +1,5 @@
 {
-  "open_ai_api_key": "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",
+  "open_ai_api_key": "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",
   "single_chat_prefix": ["bobo", "@bobo"],
   "single_chat_reply_prefix": "[bobo] ",
   "group_chat_prefix": ["@bobo"],
