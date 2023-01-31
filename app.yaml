@@ -1,2 +1,2 @@
 runtime: python39
-entrypoint: nohup python3 main.py > nohup.out &  
+entrypoint: nohup python3 main.py > /tmp/nohup.log &  
