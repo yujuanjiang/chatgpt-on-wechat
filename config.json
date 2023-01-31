@@ -1,0 +1,8 @@
+{
+  "open_ai_api_key": "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",
+  "single_chat_prefix": ["bobo", "@bobo"],
+  "single_chat_reply_prefix": "[bobo] ",
+  "group_chat_prefix": ["@bobo"],
+  "group_name_white_list": ["ChatGPT测试群", "吉祥三宝","Sisters"],
+  "image_create_prefix": ["画", "看", "找"]
+}
